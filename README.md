@@ -15,7 +15,7 @@ import { createEnvironmentMap } from './js/envMap.js';
 import { loadFBXModelCustom } from './js/obj/fbx_costum.js';
 import { create_object } from './js/createObject.js';
 
-
+```
 // 🎬 1-liner: set up scene, camera, renderer
 const { scene, camera, renderer } = set_up();
 
