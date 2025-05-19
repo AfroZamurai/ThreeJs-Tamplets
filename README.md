@@ -1,19 +1,20 @@
 # ThreeJs-Tamplets
 Cool Collection of boring functions, so that building 3D websites becomes more fun
 
-How to call the functions in your Main file.
+# 🎨 ThreeJs-Tamplets  
+*Cool collection of boring functions — making 3D website building way more fun!*
 
+---
+
+### 🔥 Core Imports for the Main.js
+```js
 import { set_up } from './js/setUp.js';
-
 import { view } from './js/view.js';
-
 import { setupLights } from './js/lights.js';
-
 import { createEnvironmentMap } from './js/envMap.js';
-
 import { loadFBXModelCustom } from './js/obj/fbx_costum.js';
-
 import { create_object } from './js/createObject.js';
+
 
 // 🎬 1-liner: set up scene, camera, renderer
 const { scene, camera, renderer } = set_up();
