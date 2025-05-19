@@ -1,5 +1,4 @@
-# ThreeJs-Tamplets
-Cool Collection of boring functions, so that building 3D websites becomes more fun
+
 
 # 🎨 ThreeJs-Tamplets  
 *Cool collection of boring functions — making 3D website building way more fun!*
@@ -17,11 +16,13 @@ import { create_object } from './js/createObject.js';
 
 ```
 // 🎬 1-liner: set up scene, camera, renderer
+```
 const { scene, camera, renderer } = set_up();
-
+```
 // 🧭 1-liner: set up OrbitControls and helpers
+```
 view(scene, camera, renderer);
-
+```
 // 🎥 Camera view setup
 camera.position.set(40, 20, 40);
 renderer.setClearColor(0x222222);
