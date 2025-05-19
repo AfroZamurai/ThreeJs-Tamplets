@@ -1,7 +1,7 @@
 
 
 # 🎨 ThreeJs-Tamplets  
-*Cool collection of boring functions — making 3D website building a little less painfull!*
+*Cool collection of boring functions — making 3D website building on vanilla js a little less painfull!*
 
 ---
 
