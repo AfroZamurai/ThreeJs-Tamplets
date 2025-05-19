@@ -4,10 +4,15 @@ Cool Collection of boring functions, so that building 3D websites becomes more f
 How to call the functions in your Main file.
 
 import { set_up } from './js/setUp.js';
+
 import { view } from './js/view.js';
+
 import { setupLights } from './js/lights.js';
+
 import { createEnvironmentMap } from './js/envMap.js';
+
 import { loadFBXModelCustom } from './js/obj/fbx_costum.js';
+
 import { create_object } from './js/createObject.js';
 
 // 🎬 1-liner: set up scene, camera, renderer
